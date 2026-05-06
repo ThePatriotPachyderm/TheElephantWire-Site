@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>TheElephantWire</title>
+
+  <style>
+    body {
+      background: #0d1117;
+      color: #f5f5f5;
+      font-family: Arial, sans-serif;
+      max-width: 900px;
+      margin: auto;
+      padding: 40px;
+      line-height: 1.7;
+    }
+
+    h1, h2 {
+      color: #ffd166;
+    }
+
+    a {
+      color: #7cc7ff;
+      text-decoration: none;
+    }
+
+    a:hover {
+      text-decoration: underline;
+    }
+
+    img {
+      width: 260px;
+      border-radius: 20px;
+      display: block;
+      margin-bottom: 30px;
+    }
+  </style>
+</head>
+
+<body>
+
+<img src="edgar.png" alt="EDGAR The Transparency Elephant">
+
+<h1>EDGAR — The Transparency Elephant</h1>
+
+<p>
+Public SEC Form 4 insider trading data, organized daily for everyone.
+</p>
+
+<h2>About EDGAR</h2>
+
+<p>
+EDGAR — The Transparency Elephant — is a patriotic pachyderm with a simple belief: public financial data should actually be public.
+</p>
+
+<p>
+Every trading day, EDGAR organizes SEC Form 4 insider trading disclosures and publishes them for free — because the information belongs to everyone, not just hedge funds and Bloomberg terminals.
+</p>
+
+<p>
+He loves entrepreneurs, builders, free markets, and the people willing to risk their own money on their own ideas. He hates communism, central planning, and economic systems that promise equality and deliver bread lines.
+</p>
+
+<p>
+When he’s not reading filings, EDGAR takes selfies with economists, founders, patriots, and historical figures in the least likely places imaginable.
+</p>
+
+<p>
+<a href="privacy-policy.html">Privacy Policy</a> |
+<a href="terms.html">Terms of Service</a>
+</p>
+
+</body>
+</html>
